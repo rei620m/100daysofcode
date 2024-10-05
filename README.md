@@ -18,7 +18,7 @@ End date: TBD
 |8|10/2|Html form| 
 |9|10/3|Html form<br>・ Use [input type="text"] instead of date for more flexibility on mobile<br>・ Need to run validation to only accept numbers and "/" or "-"<br>・Cross-browser compatibility: [caniuse.com/input-datetime](https://caniuse.com/input-datetime)| 
 |10|10/4|Supervised learning with scikit-learn| 
-|11|10/5|Binary classification<br>・ Logistic regression and support vector machines algorithms are natively designed for binary classifications<br>・ Can also use knn and decision trees| 
+|11|10/5|Binary classification<br>・ Logistic regression and SVM algorithms are natively designed for binary classifications<br>・ Can also use knn and decision trees| 
 |12|10/6|| 
 |13|10/7|| 
 |14|10/8||
