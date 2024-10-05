@@ -16,6 +16,8 @@ End date: TBD
 |6|9/30|Html form<br>Project inspiration: [https://whatwebcando.today/](https://whatwebcando.today/)| 
 |7|10/1|[Nobi](https://github.com/rei620m/nobi), [Google_flight_search.py](https://github.com/rei620m/python_automation/blob/main/google_flight_search.py), APIs in python| 
 |8|10/2|Html form| 
-|9|10/3|Html form<br>→ Use [input type="text"] instead of date for more flexibility on mobile. Need to run validation to only accept numbers and "/" or "-"| 
+|9|10/3|Html form<br>・ Use [input type="text"] instead of date for more flexibility on mobile<br>・ Need to run validation to only accept numbers and "/" or "-"<br>・Cross-browser compatibility: [caniuse.com/input-datetime](https://caniuse.com/input-datetime)| 
 |10|10/4|Supervised learning with with scikit-learn| 
 |11|10/5|Html form| 
+|12|10/6|| 
+|13|10/7|| 
