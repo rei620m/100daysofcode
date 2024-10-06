@@ -11,7 +11,7 @@ End date: TBD
 |1|9/25|Html form| 
 |2|9/26|[Gohan_dousuru](https://github.com/rei620m/gohan_dousuru)| 
 |3|9/27|[Gohan_dousuru](https://github.com/rei620m/gohan_dousuru)|
-|4|9/28|Custom cursor on wordpress theme| 
+|4|9/28|[Luxeritas_custom](https://github.com/rei620m/luxeritas_custom): custom cursor on wordpress theme| 
 |5|9/29|[Gohan_dousuru](https://github.com/rei620m/gohan_dousuru)| 
 |6|9/30|Html form<br>Project inspiration: [https://whatwebcando.today/](https://whatwebcando.today/)| 
 |7|10/1|[Nobi](https://github.com/rei620m/nobi), [Google_flight_search.py](https://github.com/rei620m/python_automation/blob/main/google_flight_search.py), APIs in python| 
