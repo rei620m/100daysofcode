@@ -21,7 +21,7 @@ End date: TBD
 |11|10/5|Binary classification<br>・ Logistic regression and SVM algorithms are natively designed for binary classifications<br>・ Can also use knn and decision trees| 
 |12|10/6|Html tooltip on mobile| 
 |13|10/7|[Tailwind css](https://tailwindcss.com/docs/installation)<br>・ Include tailwind's css file via CDN or generating it during development<br>・ Customize colours, spacing, breakpoints, etc. with the configuration file <code>tailwind.config.js</code><br>・ Style elements by adding tailwind utility classes in html file<br>・<code>prefers-color-scheme</code> media query 'dark' modifier for dark mode<br>・ For production, use PurgeCSS to remove unused classes from the css file| 
-|14|10/8||
+|14|10/8|Time series analysis in R<br>・ use<code>log()</code>to stabilise variability or linearise rapid growth pattern<br>・<code>tx.plot()</code>plots regular time series data<br>・ zoo or xts package can also handle irregular time series data<br>・<code>diff(..., lag = s)</code>calculates the length s seasonal change series<br>&nbsp;&nbsp;&nbsp;&nbsp;・ ex. s=12 for monthly data, s=4 for quarterly datas<br>&nbsp;&nbsp;&nbsp;&nbsp;・ default for first differencing is lag=1|
 |15|10/9||
 |16|10/10||
 |17|10/11||
