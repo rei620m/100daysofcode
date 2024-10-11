@@ -24,7 +24,7 @@ End date: TBD
 |14|10/8|Time series analysis in R<br>・ use<code>log()</code>to stabilise variability or linearise rapid growth pattern<br>・<code>tx.plot()</code>plots regular time series data<br>・ zoo or xts package can also handle irregular time series data<br>・<code>diff(..., lag = s)</code>calculates the length s seasonal change series<br>&nbsp;&nbsp;&nbsp;&nbsp;・ ex. s=12 for monthly data, s=4 for quarterly datas<br>&nbsp;&nbsp;&nbsp;&nbsp;・ default for first differencing is lag=1|
 |15|10/9|ARIMA<br>・ statsmodels in python,  forecast package in R<br>・ Combination of AutoRegressive (AR), Integrated (I), and Moving Average (MA)<br>・ Assumes a linear relationship between past values and future values<br>・ Requires constant mean and variance over time<br><br>Prophet<br>・ fbprophet in python, prophet package in R<br>・ Automatically detects changes in trend using "changepoints" and adjust forecasts accordingly <br>・ Robust to missing data, outliers, and is more flexible in handling seasonality and non-linear trends|
 |16|10/10|Generate word cloud from survey responses (English) in R|
-|17|10/11||
+|17|10/11|[Wordcloud](https://github.com/rei620m/wordcloud): Translate multilingual survey responses and generate word cloud in English<br>・ textTinyR and translateR require devtools for installation from GitHub<br><code>install.packages("devtools")</code><br><code>devtools::install_github("mlampros/textTinyR")</code><br><code>devtools::install_github("ropensci/translateR")</code>|
 |18|10/12||
 |19|10/13||
 |20|10/14||
