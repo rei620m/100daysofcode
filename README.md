@@ -25,7 +25,7 @@ End date: TBD
 |15|10/9|ARIMA<br>・ statsmodels in python,  forecast package in R<br>・ Combination of AutoRegressive (AR), Integrated (I), and Moving Average (MA)<br>・ Assumes a linear relationship between past values and future values<br>・ Requires constant mean and variance over time<br><br>Prophet<br>・ fbprophet in python, prophet package in R<br>・ Automatically detects changes in trend using "changepoints" and adjust forecasts accordingly <br>・ Robust to missing data, outliers, and is more flexible in handling seasonality and non-linear trends|
 |16|10/10|Generate word cloud from survey responses in R (English only)|
 |17|10/11|[Wordcloud](https://github.com/rei620m/wordcloud): translate multilingual survey responses and generate word cloud in English<br>・ textTinyR and translateR require devtools for installation from GitHub<br><code>install.packages("devtools")</code><br><code>devtools::install_github("mlampros/textTinyR")</code><br><code>devtools::install_github("ropensci/translateR")</code>|
-|18|10/12||
+|18|10/12|Query snowflake data on databricks|
 |19|10/13||
 |20|10/14||
 |21|10/15||
