@@ -27,7 +27,7 @@ End date: TBD
 |17|10/11|[Wordcloud](https://github.com/rei620m/wordcloud): translate multilingual survey responses and generate word cloud in English<br>・ textTinyR and translateR require devtools for installation from GitHub<br><code>install.packages("devtools")</code><br><code>devtools::install_github("mlampros/textTinyR")</code><br><code>devtools::install_github("ropensci/translateR")</code>|
 |18|10/12|Query snowflake data on databricks|
 |19|10/13|Distribution plot and binning with numpy, matplotlib, seaborn|
-|20|10/14||
+|20|10/14|Rfm model in python|
 |21|10/15||
 |22|10/16||
 |23|10/17||
