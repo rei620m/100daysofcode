@@ -29,7 +29,7 @@ End date: TBD
 |19|10/13|Distribution plot and binning with numpy, matplotlib, seaborn|
 |20|10/14|Rfm model in python|
 |21|10/15|Read and write data from snowflake and treasure data in databricks. To convert pandas to spark df, upgrade to DBR 13.x or downgrade to pandas 1.x|
-|22|10/16||
+|22|10/16|Html form|
 |23|10/17||
 |24|10/18||
 |25|10/19||
