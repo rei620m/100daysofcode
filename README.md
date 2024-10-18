@@ -30,8 +30,8 @@ End date: TBD
 |20|10/14|Rfm model in python|
 |21|10/15|Read and write data from snowflake and treasure data in databricks. To convert pandas to spark df, upgrade to DBR 13.x or downgrade to pandas 1.x|
 |22|10/16|Html form|
-|23|10/17||
-|24|10/18||
+|23|10/17|Html form|
+|24|10/18|Html form|
 |25|10/19||
 |26|10/20||
 |27|10/21||
