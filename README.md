@@ -22,7 +22,7 @@ End date: TBD
 |12|10/6|Html tooltip on mobile| 
 |13|10/7|[Tailwind css](https://tailwindcss.com/docs/installation)<br>・ Include tailwind's css file via CDN or generating it during development<br>・ Customize colours, spacing, breakpoints, etc. with the configuration file <code>tailwind.config.js</code><br>・ Style elements by adding tailwind utility classes in html file<br>・<code>prefers-color-scheme</code> media query 'dark' modifier for dark mode<br>・ For production, use PurgeCSS to remove unused classes from the css file| 
 |14|10/8|Time series analysis in R<br>・ use<code>log()</code>to stabilise variability or linearise rapid growth pattern<br>・<code>tx.plot()</code>plots regular time series data<br>・ zoo or xts package can also handle irregular time series data<br>・<code>diff(..., lag = s)</code>calculates the length s seasonal change series<br>&nbsp;&nbsp;&nbsp;&nbsp;・ ex. s=12 for monthly data, s=4 for quarterly datas<br>&nbsp;&nbsp;&nbsp;&nbsp;・ default for first differencing is lag=1|
-|15|10/9|ARIMA<br>・ statsmodels in python,  forecast package in R<br>・ Combination of AutoRegressive (AR), Integrated (I), and Moving Average (MA)<br>・ Assumes a linear relationship between past values and future values<br>・ Requires constant mean and variance over time<br><br>Prophet<br>・ fbprophet in python, prophet package in R<br>・ Automatically detects changes in trend using "changepoints" and adjust forecasts accordingly <br>・ Robust to missing data, outliers, and is more flexible in handling seasonality and non-linear trends|
+|15|10/9|Time series analysis in R and python<br>・ ARIMA<br>&nbsp;&nbsp;&nbsp;&nbsp;・ statsmodels in python, forecast package in R<br>&nbsp;&nbsp;&nbsp;&nbsp;・ Combination of AutoRegressive (AR), Integrated (I), and Moving Average (MA)<br>&nbsp;&nbsp;&nbsp;&nbsp;・ Assumes a linear relationship between past values and future values<br>&nbsp;&nbsp;&nbsp;&nbsp;・ Requires constant mean and variance over time<br>・ Prophet<br>&nbsp;&nbsp;&nbsp;&nbsp;・ fbprophet in python, prophet package in R<br>&nbsp;&nbsp;&nbsp;&nbsp;・ Automatically detects changes in trend using "changepoints" and adjust forecasts accordingly<br>&nbsp;&nbsp;&nbsp;&nbsp;・ Robust to missing data, outliers, and is more flexible in handling seasonality and non-linear trends|
 |16|10/10|Generate word cloud from survey responses in R (English only)|
 |17|10/11|[Wordcloud](https://github.com/rei620m/wordcloud): translate multilingual survey responses and generate word cloud in English<br>・ textTinyR and translateR require devtools for installation from GitHub<br><code>install.packages("devtools")</code><br><code>devtools::install_github("mlampros/textTinyR")</code><br><code>devtools::install_github("ropensci/translateR")</code>|
 |18|10/12|Query snowflake data on databricks|
@@ -32,7 +32,7 @@ End date: TBD
 |22|10/16|Html form|
 |23|10/17|Html form|
 |24|10/18|Html form|
-|25|10/19||
+|25|10/19|Time series analysis with prophet<br>・ Designed for univariate time series<br>・ For multiple input variables, use additional regressors<br>・ For multiple related output variables, just model each one separately as univariate time series, or use the forecast values of one variable as inputs to the next<br>・ Can also consider more advanced models like VAR or LSTM |
 |26|10/20||
 |27|10/21||
 |28|10/22||
