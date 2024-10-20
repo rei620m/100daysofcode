@@ -32,8 +32,8 @@ End date: TBD
 |22|10/16|Html form|
 |23|10/17|Html form|
 |24|10/18|Html form|
-|25|10/19|Time series analysis with prophet<br>・ Designed for univariate time series<br>・ For multiple input variables, use additional regressors<br>・ For multiple related output variables, just model each one separately as univariate time series, or use the forecast values of one variable as inputs to the next<br>・ Can also consider more advanced models like VAR or LSTM |
-|26|10/20||
+|25|10/19|Time series analysis with prophet<br>・ Designed for univariate time series<br>・ For multiple input variables, use additional regressors<br>・ For multiple related output variables, just model each one separately as univariate time series, or use the forecast values of one variable as inputs to the next<br>・ Can also consider more advanced models like VAR or LSTM|
+|26|10/20|Agile process on github projects|
 |27|10/21||
 |28|10/22||
 |29|10/23||
