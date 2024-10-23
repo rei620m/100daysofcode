@@ -36,7 +36,7 @@ End date: TBD
 |26|10/20|Agile process on github projects|
 |27|10/21|Html form|
 |28|10/22|Html form|
-|29|10/23||
+|29|10/23|Time series analysis with prophet<br>・ By default, prophet uses 80% confidence interval, meaning there's an 80% chance that the actual value will fall between yhat_lower and yhat_upper|
 |30|10/24||
 |31|10/25||
 |32|10/26||
