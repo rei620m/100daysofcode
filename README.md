@@ -6,7 +6,7 @@ End date: TBD
 
 ## Log
 
-|Day|Date|Project / What I Learned| 
+|Day|Date|Project / TIL| 
 |-|-|-| 
 |1|9/25|Html form| 
 |2|9/26|[Gohan_dousuru](https://github.com/rei620m/gohan_dousuru)| 
@@ -37,7 +37,7 @@ End date: TBD
 |27|10/21|Html form|
 |28|10/22|Html form|
 |29|10/23|Time series analysis with prophet<br>・ By default, prophet uses 80% confidence interval, meaning there's an 80% chance that the actual value will fall between yhat_lower and yhat_upper|
-|30|10/24||
+|30|10/24|SFMC Upsert DE via SSJS<br><code>var updatedRowCount = Platform.Function.UpsertData(</code><br><code>"nameOfYourDE"</code><br><code>,['pkField1','pkField1'] // list of primary key field names</code><br><code>,['pkValue1','pkValue2'] // list of primary key field values</code><br><code>,['field3', 'field4'] // list of non primary key field names</code><br><code>,['value3', 'value4'] // list of non primary key field values</code><br><code>);</code><br>・ Side note: Everything wrapped in a try/catch runs successfully in automation studio, so it’d actually be actively obfuscating the issue|
 |31|10/25||
 |32|10/26||
 |33|10/27||
