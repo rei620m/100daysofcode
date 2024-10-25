@@ -38,7 +38,7 @@ End date: TBD
 |28|10/22|Html form|
 |29|10/23|Time series analysis with prophet<br>・ By default, prophet uses 80% confidence interval, meaning there's an 80% chance that the actual value will fall between yhat_lower and yhat_upper|
 |30|10/24|[Gohan_dousuru](https://github.com/rei620m/gohan_dousuru): added min/max for date input field; upon submission redirect to success page<br>[Nobi](https://github.com/rei620m/nobi): added version for mac<br>SFMC Upsert DE via SSJS<br>&nbsp;&nbsp;&nbsp;&nbsp;<code>var updatedRowCount = Platform.Function.UpsertData(</code><br>&nbsp;&nbsp;&nbsp;&nbsp;<code>"nameOfYourDE"</code><br>&nbsp;&nbsp;&nbsp;&nbsp;<code>,['pkField1','pkField1'] // list of primary key field names</code><br>&nbsp;&nbsp;&nbsp;&nbsp;<code>,['pkValue1','pkValue2'] // list of primary key field values</code><br>&nbsp;&nbsp;&nbsp;&nbsp;<code>,['field3', 'field4'] // list of non primary key field names</code><br>&nbsp;&nbsp;&nbsp;&nbsp;<code>,['value3', 'value4'] // list of non primary key field values</code><br>&nbsp;&nbsp;&nbsp;&nbsp;<code>);</code>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;※ Side note: everything wrapped in try/catch runs successfully in automation studio, so it’d actually be obfuscating the issue|
-|31|10/25||
+|31|10/25|[Learn-cantonese](https://github.com/rei620m/learn-cantonese): simple flashcard generator using Excel and python|
 |32|10/26||
 |33|10/27||
 |34|10/28||
